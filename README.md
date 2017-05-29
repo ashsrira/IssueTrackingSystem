@@ -9,6 +9,6 @@ This has been done using Spring MVC and Hibernate which has a MySQL Server runnn
 Upcoming Changes
 ================
 
-1.) Adding Issue type field ==> a.) Dev b.) Test c.) DevOps
-2.) Adding the ability to filter and search for issues using the Issue Type and owner (I plan to accomplish this using search indexing with Solr)
-3.) Creating Role Based Access Control (RBAC) 
+1.) Adding Issue type field ==> a.) Dev b.) Test c.) DevOps \n
+2.) Adding the ability to filter and search for issues using the Issue Type and owner (I plan to accomplish this using search indexing with Solr) \n
+3.) Creating Role Based Access Control (RBAC) \n
